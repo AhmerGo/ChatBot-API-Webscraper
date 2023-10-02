@@ -1,0 +1,1 @@
+@$(user), $(eval $(urlfetch json https://pastebin.com/raw/rvuAFWSi)('$(twitch $(channel) "{{uptimeLength}}")','$(twitch $(channel) "{{uptimeAt}}")',"$(querystring $(urlfetch json https://api.henrikdev.xyz/valorant/v1/mmr-history/na/draxick/000))%22))
