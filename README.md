@@ -1,4 +1,8 @@
 # ChatBot-API-WebScraper
+Sample Output: 
+
+![image](https://github.com/AhmerGo/ChatBot-API-Webscraper/assets/146684126/6f0f9826-df42-4e95-a91b-2a0ce7655044)
+
 
 Twitch Bot Integration with Valorant MMR History
 This script integrates a Twitch bot to fetch and present a streamer's (in this case, "Draxick") recent Matchmaking Rating (MMR) changes in Valorant.
